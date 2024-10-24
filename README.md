@@ -1,2 +1,2 @@
-# OGB-ogbg-molhiv
-Experiment for the OGB dataset obgb-molhiv
+# OGB dataset - Graph property prediction
+https://ogb.stanford.edu/docs/graphprop/#ogbg-mol
